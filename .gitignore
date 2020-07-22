@@ -1,0 +1,7 @@
+/venv
+/.idea
+/data/dev-articles
+/data/labels
+/data/train-articles
+/data/test-articles
+__pycache__
